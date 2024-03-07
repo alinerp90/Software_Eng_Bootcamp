@@ -19,9 +19,12 @@ print("Hello World")
 
 # improvements:
 
-def greeting(name, age):
+def greeting():
     name = input("What is your name? ")
     age = input ("How old are you? ")
+    print(f"{name}, {age}, Hello World!")
+
+greeting()
 
 """  
 Pick any one of your GitHub repos.
