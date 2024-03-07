@@ -1,0 +1,1 @@
+Total users: 3; Total Tasks: 5; [{'username': 'admin', 'total_tasks': 1, 'tasks_complete': 0, 'tasks_incomplete': 1, 'tasks_overdue': 0}, {'username': 'aline', 'total_tasks': 1, 'tasks_complete': 1, 'tasks_incomplete': 0, 'tasks_overdue': 0}, {'username': 'paulo', 'total_tasks': 3, 'tasks_complete': 2, 'tasks_incomplete': 1, 'tasks_overdue': 0}] 
